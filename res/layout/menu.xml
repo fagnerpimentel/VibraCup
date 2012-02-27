@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_Turismo"
+          android:title="Turismo" > 
+        <menu>
+            <item android:id="@+id/Mapas_Turisticos"
+                  android:title="Mapas Turisticos" />
+            <item android:id="@+id/Informacoes"
+                  android:title="Informações" />
+			<item android:id="@+id/Eventos"
+                  android:title="Eventos" />
+        </menu> 
+    </item>
+    <item android:id="@+id/menu_config"
+          android:title="Configurações" >
+        <menu xmlns:android="http://schemas.android.com/apk/res/android">
+    		<group android:checkableBehavior="single">
+        		<item android:id="@+id/Satelite"
+              		  android:title="Satelite" />
+        		<item android:id="@+id/blue"
+              		  android:title="2" />
+    		</group>
+		</menu>
+	</item>
+	<item android:id="@+id/menu_Copa"
+          android:title="Copa" />
+</menu>

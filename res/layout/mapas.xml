@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout
+	android:id="@+id/widget0"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	xmlns:android="http://schemas.android.com/apk/res/android">
+<ImageView
+	android:id="@+id/widget34"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:layout_x="58dp"
+	android:layout_y="64dp" />
+<ImageView
+	android:id="@+id/widget35"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:src="@drawable/markerblue"
+	android:layout_x="180dp"
+	android:layout_y="73dp" />
+<ImageView
+	android:id="@+id/widget36"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:layout_x="77dp"
+	android:layout_y="167dp" />
+<ImageView
+	android:id="@+id/widget37"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:layout_x="206dp"
+	android:layout_y="178dp" />
+<ImageView
+	android:id="@+id/widget38"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:layout_x="93dp"
+	android:layout_y="269dp" />
+<ImageView
+	android:id="@+id/widget39"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:layout_x="214dp"
+	android:layout_y="298dp" />
+</AbsoluteLayout>

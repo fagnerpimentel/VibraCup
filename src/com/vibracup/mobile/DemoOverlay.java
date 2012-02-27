@@ -37,6 +37,8 @@ public class DemoOverlay extends Overlay {
 			canvas.drawBitmap(marker, myPoint.x - 15, myPoint.y - 30, null);
 		}
 	}
+	
+	
  
 	private GeoPoint getSampleLocation() {
  
